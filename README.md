@@ -5,14 +5,14 @@ This project uses data provided by usgs.gov to show a visual repersentation of a
 
 ## Results
 
--Dark map with all overlays active.
+### Dark map with all overlays active.
 
 ![alt text](https://github.com/PSWil/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/eqDarkMap.png)
 
--Satellite map of major earthquakes and faultlines.
+### Satellite map of major earthquakes and faultlines.
 
 ![alt text](https://github.com/PSWil/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/satMajorEqs.png)
 
--Close up view of California.
+### Close up view of California.
 
 ![alt text](https://github.com/PSWil/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/zoomCali.png)
